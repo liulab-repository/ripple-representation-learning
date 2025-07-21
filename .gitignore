@@ -1,0 +1,11 @@
+*.csv
+*.mat
+*.pdf
+*.png
+*.fig
+*/figures/
+*/Figures/
+*/results/
+toolboxs/
+data/
+data.zip
